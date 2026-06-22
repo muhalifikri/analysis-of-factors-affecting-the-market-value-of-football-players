@@ -14,7 +14,7 @@ By identifying and analyzing these key drivers, this project aims to provide the
 
 The ultimate output of this project is an interactive **Data Dashboard** designed to analyze and visualize football players' market values based on various contributing factors.
 
-*   **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/muhammad.ali.fikri5379/viz/milestone1p0w4-rev1/DashboardUtama?publish=yes)
+*   **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/muhammad.ali.fikri5379/viz/football-player-value-dashboard/DashboardUtama?publish=yes)
 
 ## 📂 Repository Outline
 
